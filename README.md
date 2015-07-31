@@ -5,8 +5,8 @@ A constantly-evolving collection of useful animation curves for interaction desi
 Use bounce like you would any other module. See the [official reference](http://framerjs.com/docs/#modules) if you've never dealt with modules before. Otherwise:
 
 1. add bounce.coffee to the `modules` folder within your Framer project
-2. at the top of your Framer sketch, type `bounce = require "bounce"`
-3. refresh your Framer sketch
+2. at the top of your Framer project, type `bounce = require "bounce"`
+3. refresh your Framer project
 
 ## How do I use bounce?
 I like to first set the Framer defaults to the following:
