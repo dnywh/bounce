@@ -1,5 +1,5 @@
 # bounce
-A constantly-evolving collection of useful animation curves for interaction design within [Framer](framerjs.com), wrapped within a handy module. Full reference within `bounce.coffee`.
+A constantly-evolving collection of useful animation curves for interaction design within [Framer](http://framerjs.com), wrapped within a handy module. Full reference within `bounce.coffee`.
 
 ## How do get started?
 Use bounce like you would any other module. See the [official reference](http://framerjs.com/docs/#modules) if you've never dealt with modules before. Otherwise:
@@ -36,4 +36,4 @@ Anyone using Framer to prototype interactions, needing some nice preset animatio
 You're welcome (and encouraged) to customise/tweak/bastardise/build-upon any of the animation settings within bounce. Feel free to share.
 
 ## Help
-Get in touch on twitter [@aloookat](twitter.com/aloookat) with any questions specifically about bounce. Questions about Framer are probably best for the Framer community [on Facebook](https://www.facebook.com/groups/framerjs/).
+Get in touch on twitter [@aloookat](https://twitter.com/aloookat) with any questions specifically about bounce. Questions about Framer are probably best for the Framer community [on Facebook](https://www.facebook.com/groups/framerjs/).
