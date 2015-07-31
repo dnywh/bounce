@@ -42,7 +42,7 @@ exports.default =
 	curve:" ease"
 
 
-# a nice springy-curve
+# a nice springy-curve to start with
 exports.standard
 #	time: 0.3
 	curve: "spring(300, 35, 10)"
