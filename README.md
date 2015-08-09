@@ -1,3 +1,5 @@
+*Note: this module is in 'alpha'—it's a work in progress. Anything can (and will) change over time. I'll remove this once I feel like bounce is at a usable/stable stage.*
+
 # bounce
 A constantly-evolving collection of useful animation curves for interaction design within [Framer](http://framerjs.com), wrapped within a handy module. Full reference within `bounce.coffee`.
 
